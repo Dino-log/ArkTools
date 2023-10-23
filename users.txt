@@ -1,4 +1,2 @@
-Username: Dino_log Hwid: null
-
-Username:mogre Hwid:migsa
-niggelet:nigglet
+dinolog:null
+sander:null
