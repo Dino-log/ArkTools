@@ -1,8 +1,6 @@
 ===DEVMODE===
 
-dinolog:null:1
-sander:null:1
+dinolog:null:9999-99-99:1
+sander:null:9999-99-99:1
 
 ===USERS===
-
-zyro:null:2023-11-22:0
