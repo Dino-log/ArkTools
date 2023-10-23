@@ -1,6 +1,4 @@
+===DEVMODE===
 dinolog:null
 sander:null
-zyro:null
-
-nigger:nigger
-aads:ads
+===USERS===
